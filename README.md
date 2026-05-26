@@ -1,4 +1,4 @@
-# Community Detection and Hub Analysis in the Forest Gump Network
+# Case study on the Forrest Gump interaction network.
 
 ## Overview
 This project explores the structure of the *Forest Gump* character interaction network using techniques from Social Network Analysis (SNA).
